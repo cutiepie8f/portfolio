@@ -1,0 +1,99 @@
+.cover{
+    background-color: black;
+    position: absolute;
+    /* height: 200vh; */
+    width: 100%;
+}
+.portfolio{
+    color: orange;
+    font-size: 36px;
+    font-weight: 500;
+    display: inline-block;
+    padding: 2rem 4rem 0 8rem;
+}
+.about{
+    color: white;
+    font-size: 20px;
+    font-weight:400;
+    display: inline-block;
+    padding: 2rem 4rem 0 23rem;
+}
+.project{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    display: inline-block;
+    padding: 2rem 4rem 0 0;
+}
+.skills{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    display: inline-block;
+    padding: 2rem 4rem 0 0;
+} 
+.name-heading{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.content{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+.aboutDetails{
+    margin: 8rem 0 0 8rem;
+     width: 43rem;
+     display: inline-block;
+}
+.image{
+    display: inline-block;
+    margin: 5rem 0 0 2rem;
+    position: absolute;
+}
+.skillTitle{
+    color: orange;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 177px 0 27px 8rem;
+}
+.skillImages{
+    padding: 0 35px 0 0;
+}
+.aboutTitle{
+    color: orange;
+    font-size: 30px;
+    font-weight: 700;
+    margin: -38px 0 55px 0;
+}
+.education-title{
+    color: orange;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 141px 0 27px 7rem;
+
+}
+.degree{
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.college{
+    font-weight: 400;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.marksHeading{
+    font-size: 20px;
+    font-weight: 500;
+}
+.marks{
+    font-size: 20px;
+    font-weight: 400;
+}
+.year{
+    font-size: 20px;
+    font-weight: 400;
+}
