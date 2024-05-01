@@ -1,7 +1,14 @@
 .cover{
-    background-color: black;
+    background-color: #181414;
     position: absolute;
-    /* height: 200vh; */
+    /* height: 1000vh; */
+    width: 100%;
+}
+.navbar{
+    position: fixed;
+    z-index: 1;
+    height: 105px;
+    background-color: #181414;
     width: 100%;
 }
 .portfolio{
@@ -23,7 +30,7 @@
     font-size: 20px;
     font-weight: 400;
     display: inline-block;
-    padding: 2rem 4rem 0 0;
+    padding: 2rem 31rem 0 0;
 }
 .skills{
     color: white;
@@ -39,7 +46,7 @@
     margin-bottom: 20px;
 }
 .content{
-    color: white;
+    color: darkgrey;
     font-weight: 400;
     font-size: 20px;
 }
@@ -50,7 +57,7 @@
 }
 .image{
     display: inline-block;
-    margin: 5rem 0 0 2rem;
+    margin: 14rem 0 0 2rem;
     position: absolute;
 }
 .skillTitle{
@@ -66,7 +73,7 @@
     color: orange;
     font-size: 30px;
     font-weight: 700;
-    margin: -38px 0 55px 0;
+    margin: 64px 0 55px 0;
 }
 .education-title{
     color: orange;
@@ -84,6 +91,7 @@
     font-weight: 400;
     font-size: 22px;
     margin-bottom: 20px;
+    color: darkgrey;
 }
 .marksHeading{
     font-size: 20px;
@@ -96,4 +104,179 @@
 .year{
     font-size: 20px;
     font-weight: 400;
+    color: darkgrey;
+}
+.certification-title{
+    color: orange;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 141px 0 27px 7rem;
+}
+.certificate-heading{
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: white;
+    margin-left: 7rem;
+    margin-top: 70px;
+}
+.organisationName{
+   font-size: 22px;
+   color: white;
+   font-weight: 500;
+   margin-left: 7rem;
+}
+.programType{
+    font-size: 22px;
+    color: darkgrey;
+    font-weight: 400;
+}
+.course-details{
+    font-size: 20px;
+    color: darkgrey;
+    font-weight: 400;
+    margin-left: 7rem;
+    width: 50rem;
+    margin-bottom: 20px;
+
+}
+.id{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 20px;
+}
+.id-number{
+    color: blue;
+    font-size: 18px;
+    font-weight: 400;
+}
+.technology{
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 0 0 7rem;
+}
+
+.technology-name{
+    font-weight: 400;
+    font-size: 18px;
+    color: darkgrey;
+    margin: 0 0 0 10px;
+}
+.projects-title{
+
+    color: orange;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 141px 0 27px 7rem;
+}
+
+.project-box{
+    width: 81rem;
+    height: 32rem;
+    margin: 4rem 7rem 0 07rem;
+    box-shadow: 0px 0px 14px darkgrey;
+}
+.projectcarousel-1{
+    /* border: 1px solid white; */
+    width: 40rem;
+    height: 28rem;
+    margin: 0 2rem 2rem 40rem;
+    position: absolute;
+    display: inline-block;
+}
+.page_img{
+    height: 28rem;
+}
+.content-box{
+    display: inline-block;
+    width: 34rem;
+    height: 28rem;
+    margin: 2rem 0 2rem 1.5rem;
+    position: absolute;
+}
+.content-heading{
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 74px;
+}
+.content-details{
+    font-size: 20px;
+    color: darkgrey;
+    font-weight: 400;
+    margin: 29px 0 46px 22px;
+}
+.skill-part{
+    color: lightseagreen;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0 0 0 43px;
+}
+.projectcarousel-2{
+    /* border: 1px solid white; */
+    width: 40rem;
+    height: 28rem;
+    margin: 0 2rem 2rem 40rem;
+    position: absolute;
+    display: inline-block;
+}
+.project-heading{
+    color: lightskyblue;
+    font-size: 25px;
+    font-weight: 500;
+    justify-content: center;
+    text-align: center;
+}
+.achievemets-title{
+    color: orange;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 141px 0 27px 7rem;
+}
+.main-title{
+    color: darkgrey;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 1rem 0 0 7rem; 
+}
+.sub-title{
+    color: darkgrey;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 1rem 0 0 7rem; 
+}
+.collegeName-title{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 1rem 0 0 7rem; 
+}
+.line{
+    color: darkgrey;
+    width: 459px;
+    margin: 40px 0 0 113px;
+    border: 1px solid;
+}
+.connect{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+.linkedin{
+    margin: 2px 0 0 19px;
+    position: absolute;
+}
+.gmail{
+    margin: 2px 0 0 55px;
+    position: absolute;
+}
+.gmail-text{
+    margin: 0 0 0 87px;
+    color: dodgerblue;
+    text-decoration: underline;
+    font-weight: 500;
+  cursor: pointer;
 }
